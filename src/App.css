@@ -1,16 +1,16 @@
 .title {
   margin: 100px 0 30px;
-  font-size: 30px;
+  font-size: 50px;
   color: maroon;
   text-transform: uppercase;
   text-align: center;
 }
 .clock {
-  width: 500px;
+  width: 700px;
   height: 300px;
   margin: auto;
-  border-radius: 30%;
-  background-color: darkslategrey;
+  border-radius: 10px;
+  background-color: rgb(17, 19, 19);
   box-shadow: 0 0 5px brown;
 }
 .time,
